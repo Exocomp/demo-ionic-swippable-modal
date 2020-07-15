@@ -1,0 +1,7 @@
+{
+  "name": "demo-ionic-swippable-modal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
